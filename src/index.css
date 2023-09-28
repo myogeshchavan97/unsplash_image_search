@@ -59,6 +59,13 @@ body {
   text-align: center;
 }
 
+.loading {
+  color: #6565d4;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
 /* common css ends */
 
 /* search section starts */
@@ -92,7 +99,7 @@ body {
   margin-top: var(--default-margin);
 }
 
-.filters>* {
+.filters > * {
   padding: 5px 10px;
   background: #7676d7;
   color: #fff;
